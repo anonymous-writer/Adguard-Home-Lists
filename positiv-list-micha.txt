@@ -1,0 +1,21 @@
+##
+## Title: Postitive-List-Micha
+## "https://bitbucket.org/anonymous_writer/adguard-home-lists/raw/main/positiv-list-micha.txt"
+##
+## For Apple Updates Important
+@@||xp.apple.com
+@@||xp.itunes-apple.com.akadns.net
+@@||xp.apple.com.edgekey.net
+@@||e17437.dsct.akamaiedge.net
+## For Liebscher & Brachtuebungen
+@@||hubspotlinks.com
+@@||www.google-analytics.com
+## https://github.com/danilo-tecnosys/adguard-home-homelist/blob/main/whitelist/whitelist.txt
+## Sonstige:
+@@||altervista.org
+@@||amazon.de
+@@||msn.com
+@@||windows.net
+@@||google.com
+## @@||t.co
+@@||tagm.tchibo.de

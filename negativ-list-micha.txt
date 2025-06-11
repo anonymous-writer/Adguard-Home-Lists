@@ -1,0 +1,6 @@
+##
+## Title: Postitive-List-Micha
+## "https://bitbucket.org/anonymous_writer/adguard-home-lists/raw/main/negativ-list-micha.txt"
+##
+## Block Belkin for Linksys
+## ||www.belkin.com^$client='10.16.12.4'
