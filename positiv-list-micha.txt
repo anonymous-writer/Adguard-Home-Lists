@@ -21,3 +21,4 @@
 @@||tagm.tchibo.de
 @@||applelife.ru^$important
 @@||deviceportal.nettvservices.com^$client='10.16.12.80'
+@@||a-fds.youborafds01.com^$client='Fernseher Alfred'
