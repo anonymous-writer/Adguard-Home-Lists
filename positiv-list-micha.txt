@@ -11,6 +11,11 @@
 @@||hubspotlinks.com
 @@||www.google-analytics.com
 ## https://github.com/danilo-tecnosys/adguard-home-homelist/blob/main/whitelist/whitelist.txt
+## Für Magenta TV:
+@@||telekom.de^
+@@||magenta-tv.de^
+@@||p-smsg.com^
+@@||entitlement.magentatv.de^
 ## Sonstige:
 @@||altervista.org
 @@||amazon.de
